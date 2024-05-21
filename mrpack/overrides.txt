@@ -1,0 +1,12 @@
+config/fancymenu/customizablemenus.txt
+config/fancymenu/customization/confirm_link_screen_layout.txt
+config/fancymenu/customization/edit_world_screen_layout.txt
+config/fancymenu/customization/pack_selection_screen_layout.txt
+config/fancymenu/customization/telemetry_info_screen_layout.txt
+config/fancymenu/customization/title_screen_layout.txt
+config/fancymenu/custom_gui_screens.txt
+config/fancymenu/options.txt
+options.txt
+post-exit.bat
+pre-launch.bat
+pre-launch.exe
