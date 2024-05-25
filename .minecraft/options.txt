@@ -1,8 +1,9 @@
 version:3839
+version:3839
 chatLinks:false
 chatLinksPrompt:true
 fullscreen:true
-hideBundleTutorial:false
+hideBundleTutorial:true
 joinedFirstServer:true
 key_key.fullscreen:key.keyboard.unknown
 key_rebind_all_the_keys.keybind.intentional_crash:key.keyboard.unknown
@@ -10,7 +11,9 @@ key_rebind_all_the_keys.keybind.toggle_narrator_override:key.keyboard.unknown
 narrator:0
 narratorHotkey:false
 onboardAccessibility:false
+realmsNotifications:false
 skipMultiplayerWarning:true
+skipRealms32bitWarning:true
 soundCategory_music:0.0
 soundCategory_voice:0.0
 tutorialStep:none
