@@ -1,5 +1,4 @@
 version:3839
-version:3839
 chatLinks:false
 chatLinksPrompt:true
 fullscreen:true
